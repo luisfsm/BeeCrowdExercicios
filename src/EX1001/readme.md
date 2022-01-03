@@ -9,22 +9,9 @@ A entrada contém 2 valores inteiros.
 Saída
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
-Exemplos de Entrada	
-10
-9
+## Exemplos de Entrada	
+### 10
+### 9
 
-X = 19
-
-Exemplos de Entrada	
--10
-4
-
-Exemplos de Saída
-X = -6
-
-Exemplos de Entrada	
-15
--7
-
-Exemplos de Saída
-X = 8
+## Exemplos de Saída
+### X = 19
