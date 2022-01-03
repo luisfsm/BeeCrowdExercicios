@@ -1,4 +1,5 @@
-Repositorio com As Soluções dos problemas da URI/beecrowd com Java.
+Repositorio com As Soluções dos problemas da  [URI/beecrowd](https://www.beecrowd.com.br/judge/pt/login) com Java.
+
 
 
 - [Exercício - 1000 (Hello Wolrd)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1000)
