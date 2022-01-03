@@ -9,8 +9,7 @@ public class Ex1004 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int PROD = a * b;
-
-        System.out.printf("PROD = %d",PROD);
+        System.out.printf("PROD = %d\n",PROD);
         sc.close();
     }
 }
