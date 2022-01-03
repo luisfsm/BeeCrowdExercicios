@@ -1,4 +1,4 @@
-Repositorio com As Soluções dos problemas da  [URI/beecrowd](https://www.beecrowd.com.br/judge/pt/login) com Java.
+Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecrowd.com.br/judge/pt/login) com Java Iniciante.
 
 
 
