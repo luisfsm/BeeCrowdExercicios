@@ -24,4 +24,4 @@ Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecro
 - [Exercício - 1019 (Coversão do tempo)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1019)
 
 
-- [Exercício - 3299 (Números de Má Sorte Pequenos)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1019)
+- [Exercício - 3299 (Números de Má Sorte Pequenos)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX3299)
