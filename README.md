@@ -22,3 +22,6 @@ Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecro
 - [Exercício - 1017 (Gasto de Combustível)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1017)
 - [Exercício - 1018 (Cédulas)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1018)
 - [Exercício - 1019 (Coversão do tempo)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1019)
+
+
+- [Exercício - 3299 (Números de Má Sorte Pequenos)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1019)
