@@ -16,18 +16,18 @@ Imprima a mensagem "N es de Mala Suerte" se N é de má sorte, caso contrário i
 
 ### 13
 
-### Exemplo de Saída
+## Exemplo de Saída
 
-## 13 es de Mala Suerte
+### 13 es de Mala Suerte
 
 
 ## Exemplo de Entrada	
 
 ### 12321
 
-### Exemplo de Saída
+## Exemplo de Saída
 
-## 12321  es de Mala Suerte
+### 12321  es de Mala Suerte
 
 
 
