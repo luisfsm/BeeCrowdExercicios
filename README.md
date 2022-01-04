@@ -13,3 +13,5 @@ Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecro
 - [Exercício - 1008 (Salário)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1008)
 - [Exercício - 1009 (Salário + Bônus)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1009)
 - [Exercício - 1010 (Cálculo Simples)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1010)
+- [Exercício - 1011 (Esfera)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1011)
+- [Exercício - 1012 (Área)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1012)
