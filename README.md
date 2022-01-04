@@ -15,3 +15,4 @@ Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecro
 - [Exercício - 1010 (Cálculo Simples)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1010)
 - [Exercício - 1011 (Esfera)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1011)
 - [Exercício - 1012 (Área)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1012)
+- [Exercício - 1013 (O Maior)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1013)
