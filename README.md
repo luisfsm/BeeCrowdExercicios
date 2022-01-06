@@ -30,5 +30,7 @@ Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecro
 - [Exercício - 1036 (Fórmula de Bhaskara)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1036)
 
 - [Exercício - 1037(Intervalo))](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1037)
+- [Exercício - 1037(Lanche)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1038)
+
 
 - [Exercício - 3299 (Números de Má Sorte Pequenos)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX3299)
