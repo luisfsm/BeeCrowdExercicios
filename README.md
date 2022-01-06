@@ -31,6 +31,12 @@ Repositorio com as Soluções dos problemas da [URI/beecrowd](https://www.beecro
 
 - [Exercício - 1037(Intervalo))](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1037)
 - [Exercício - 1038(Lanche)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1038)
+- [Exercício - 1040(Média 3)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1040)
+- [Exercício - 1041(Coordenadas de um ponto)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1041)
+- [Exercício - 1042(Sort Simples)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1042)
+
+- [Exercício - 1044(Múltiplos)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX1044)
+
 
 
 - [Exercício - 3299 (Números de Má Sorte Pequenos)](https://github.com/luisfsm/BeeCrowdExercicios/tree/master/src/EX3299)
